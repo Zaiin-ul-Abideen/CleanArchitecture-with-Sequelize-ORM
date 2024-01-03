@@ -1,1 +1,1 @@
-# CleanArchitecture-with-Sequelize-ORM
+# CleanArchitecture-with-Sequelize
